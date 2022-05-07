@@ -27,3 +27,35 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 - Unless listed in the self-check section, do not worry about getting the exact pixel value for things like margin, padding and font-size. These exercises are intended to test your knowledge of CSS, not your ability to guess that a screenshot is using `font: sans-serif bold 16px`, or that the margin is _exactly_ `42px`.
 - You may need to add some elements to your HTML to get things into the right spot. (For the first few exercises we make it explicit when this needs to happen.)
 - You may need to add more selectors to your CSS file. The first few exercises have almost everything already done for you, but as you progress you'll find that you need to add more and more to get the correct result.
+
+## Exercises (done = ✅)
+
+1. Foundations
+    * 01-css-methods           - ✅
+    * 02-class-id-selectors    - ✅
+    * 03-grouping-selector     - ✅
+    * 04-chaining-selectors    - ✅
+    * 05-descendant-combinator - ✅
+    * 06-cascade-fix           - ✅
+
+2. Marging and Padding
+    * 01-margin-and-padding-1  - ✅
+    * 02-margin-and-padding-2  - ✅
+
+3. Flex
+    * 01-flex-center           - ✅
+    * 02-flex-header           - ✅
+    * 03-flex-header-2         - ✅
+    * 04-flex-information      - ✅
+    * 05-flex-modal            - ✅
+    * 06-flex-layout           - ✅
+    * 07-flex-layout-2         - ✅
+
+04. Grid
+    * 01-grid-layout-1         - 
+    * 02-grid-layout-2         -
+    * 03-grid-layout-3         -
+
+05. Animation
+    * 01-button-hover          -
+    * 02-pop-up                -
