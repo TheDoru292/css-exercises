@@ -52,7 +52,7 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
     * 07-flex-layout-2         - ✅
 
 04. Grid
-    * 01-grid-layout-1         - 
+    * 01-grid-layout-1         - ✅
     * 02-grid-layout-2         -
     * 03-grid-layout-3         -
 
